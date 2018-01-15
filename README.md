@@ -1,12 +1,26 @@
 # Machine-Learning-Engineering-Nano-degree
-Udacity's Machine Learning Nanodegree project files and notes.
+Udacity's Machine Learning Nanodegree project files
 
-This repository contains project files and lecture notes for Udacity's Machine Learning Engineer Nanodegree program which I started working on in November 2017.
+This repository contains project files which I have accomplished for Udacity's Machine Learning Engineer Nanodegree program from November 2017 by January 2018. The Machine Learning Engineer Nanodegree is an online certification. It involves Courses in supervised learning, unsupervised learning, reinforcement learning and deep learning. Deep neural network section covers the topics deep neural networks, convolutional neural network and transfer learning.  Each major section requires you to submit a project to fulfill the credits. As a final project (capstone project), you have the freedom to choose your own project. The course  was developed by Georgia Tech, Udacity, Google and Kaggle.
 
-The Machine Learning Engineer Nanodegree is an online certification. It involves
+The list of projects I have accomplished and upload it under this directory. 
 
-Courses in supervised learning, unsupervised learning and reinforcement learning and
-Six projects (p0-p5 in this directory). 
-Courses include lecture videos, quizzes and programming problems. These courses were developed by Georgia Tech, Udacity, Google and Kaggle.
+### The foundation of machine learning, descriptive statistics. 
+1. Titanic Survival Exploration
+2. Predicting Boston Housing Prices
 
-This directory includes lecture project code (p0 to p5).
+### Supervised Learning ### 
+3. Finding Donors for CharityML
+
+### Unsupervised Learning ### 
+4. Creating Customer Segments
+
+### Reinforcement Learning ### 
+4. Train a Smartcab to Drive
+
+### Deep Learning ### 
+5. Dog Breed Classifier
+
+### Capstone project/Final project ### 
+I am providing a list of options for my final project. Any comments are appreciated.  
+
