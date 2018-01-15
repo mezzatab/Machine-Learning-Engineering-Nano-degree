@@ -16,10 +16,10 @@ The list of projects I have accomplished and upload it under this directory.
 4. Creating Customer Segments
 
 ### Reinforcement Learning ### 
-4. Train a Smartcab to Drive
+5. Train a Smartcab to Drive
 
 ### Deep Learning ### 
-5. Dog Breed Classifier
+6. Dog Breed Classifier
 
 ### Capstone project/Final project ### 
 I am providing a list of options for my final project. Any comments are appreciated.  
