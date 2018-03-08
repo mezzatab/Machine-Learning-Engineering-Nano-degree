@@ -1,3 +1,11 @@
+Toxic comments and cyber harrasments is a growing concern non-only within  the  social  media  and  other  online  platforms.
+With  growing  number  of  users  and  huge  number  of comments, we cenrtainly can not expect to have enough actual human raters to identify the toxicity of thecomments. 
+Although  it  is  easy  for  human  to  classify  them  but  it  can  not  simply  just  cover  the  growingdemands.  
+An  automated  method  specially  using  ML  (Machine  learnig  algorithms)  which  can  be  trainedover provided data set classified by human raters and further use to infer the toxic comments is one of thesolutions. 
+As  deep  neural  netowrks  (a.k.a  DNN)  has  been  proven  to  be  quite  powerful  to  come  up  withhigher order paramters tabbing on grouping the original elements (pixels in pictures, tokenized words in thistask) to infer the labels of comments, 
+I use LSTM-RNN as one of the very recent advances in the field tolearn the sequential relationship between choice of vocabulary in order to classify the toxic and non-toxiccomments
+
+
 # required libraries and versions # 
 Python 2.+
 scikit-learn (1.9.+). Open source machine learning library for Python.
