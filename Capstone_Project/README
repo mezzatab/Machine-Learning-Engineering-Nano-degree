@@ -1,0 +1,36 @@
+# required libraries and versions # 
+Python 2.+
+scikit-learn (1.9.+). Open source machine learning library for Python.
+Keras.: Open source neural network library written in Python. It is capable of
+        running on top of either Tensorflow or Theano.
+TensorFlow.: Open source software libraries for deep learning.
+NLTK (nltk): Open source python libraries for Natural language toolkit 
+
+Other libraries used in this project:
+Numpy, Scipy, matplotlib, pickle, pandas, time, collections, functools, itertools  
+
+##############################
+
+# data # 
+the data directory, the place  where "train.csv" should be located. Because of the size, I did not include it here. However the link is below:
+Link to data:
+https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data  
+
+
+#############################
+# saved_model/Ezzat         #
+It is directory that I save the trained weights after each run for sake of transfer learning and re-use the trained model without retraining it 
+
+#############################
+# LSTM_Classifier.py        #
+It is the python function, where the LSTM architecture is designed with the given inputs 
+
+
+############################
+# plot_confusion_matrix.py #
+It is the function written in python, to read confusion matrix and plot it with given inputs such as option of being normalized and the classes  
+
+
+###########################
+# Capstone_Project.ipynb  #
+It is jupyter notebook main file, where everythings gather together and both benchmark model and solution have been tested with resulting plots  
