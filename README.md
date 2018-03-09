@@ -22,5 +22,5 @@ The list of projects I have accomplished and upload it under this directory. In 
 6. Dog Breed Classifier
 
 ### Capstone project/Final project ### 
-I am providing a list of options for my final project. Any comments are appreciated.  
+7. Toxic Comment Classifier (NLP project)   
 
